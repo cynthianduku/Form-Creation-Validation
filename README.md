@@ -4,7 +4,6 @@ This project implements a user registration form with client-side validation usi
 
 Files
 - `index.html`: Structure of the registration form.
-- 
 - `style.css`: Styling for the form layout and feedback messages.
 - `script.js`: JavaScript for form validation.
 
